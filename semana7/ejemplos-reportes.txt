@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]{
+  "tipo": "Movilidad",
+  "descripcion": "Semáforo averiado en la intersección de la avenida principal"
+}
