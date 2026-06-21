@@ -1,0 +1,3 @@
+1. Cerrar sesión al terminar de trabajar
+2. Ocultar contraseñas en el código usando variables
+3. Bloquear carpetas privadas con el archivo gitignore

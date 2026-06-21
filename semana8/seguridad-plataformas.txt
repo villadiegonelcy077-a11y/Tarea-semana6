@@ -1,0 +1,5 @@
+1 Usar contraseñas seguras y tokens:
+2 Separar las cuentas por roles
+3 Cuidar lo que se escribe en los formularios
+4 Proteger los datos de los vecinos
+5 No subir archivos privados a internet
